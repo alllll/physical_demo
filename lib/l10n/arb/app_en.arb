@@ -1,0 +1,8 @@
+{
+    "login": "Login",
+    "email": "Email",
+    "enterYourEmail": "Enter your email",
+    "invalidEmail": "Invalid Email",
+    "password": "Password",
+    "enterYourPassword": "Enter your password"
+}
